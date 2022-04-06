@@ -1,5 +1,5 @@
 # Learn-Testing-Lab01-ITI  
-this 
+This project is to learn the how to use test methods.
 
 ## To run this lab on ubuntu
 
